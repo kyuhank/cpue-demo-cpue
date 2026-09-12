@@ -1,3 +1,4 @@
 {
-  "choice": "vessel_adjusted"
+  "label": "CPUE B",
+  "choice": "year_only"
 }
