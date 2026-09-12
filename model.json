@@ -1,4 +1,5 @@
 {
   "label": "CPUE B",
-  "choice": "year_only"
+  "choice": "year_only",
+  "min_hooks": 2000
 }
